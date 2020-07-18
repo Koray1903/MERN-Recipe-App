@@ -1,6 +1,6 @@
-<h1>Live Version : https://mernrecipeapp.netlify.app/</h1>
+<h2>Live Version : https://mernrecipeapp.netlify.app/</h2>
 
-<h1>Back-end : https://dashboard.heroku.com/apps/mernrecipeapi</h1>
+<h2>Back-end : https://dashboard.heroku.com/apps/mernrecipeapi</h2>
 
 <h2>API endpoints for CRUD operations :
 
